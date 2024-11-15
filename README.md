@@ -1,9 +1,9 @@
-## **Employee Management System**
+## **Employee Management System** 💼
 
-- Designed and developed a comprehensive Employee Management System using **React.js** for seamless task management and team collaboration.  
-- Implemented separate **<u>Admin Dashboard</u>** and **<u>Employee Dashboard</u>** for streamlined role-based functionality and enhanced user experience.  
-  - **<u>Admin Dashboard:</u>** Enables administrators to assign tasks to employees, track task progress, and manage records efficiently.  
-  - **<u>Employee Dashboard:</u>** Allows employees to view assigned tasks, update their progress, and communicate updates to the admin.  
-- Focused on **responsive design** to ensure compatibility across all devices and browsers, improving usability for diverse users.  
-- Integrated **state management techniques** for dynamic task updates and optimized performance.  
-- Followed best coding practices and utilized **GitHub** for version control to maintain a clean and scalable codebase.
+- Developed an Employee Management System using **Pure React** to create dynamic and responsive user interfaces.  
+- **Admin Dashboard**: Enabled task assignment and tracking, allowing the admin to monitor employee progress and update task statuses in real-time.  
+- **Employee Dashboard**: Employees can view assigned tasks, update progress, and receive notifications for task deadlines.  
+- Utilized **Local Storage** to persist employee and task data across sessions, ensuring data consistency even after page reloads or app restarts.  
+- Styled the application with **Tailwind CSS**, ensuring a clean, modern design and responsiveness across various devices.  
+- Implemented **state management** and **React Hooks** for efficient UI updates and to ensure smooth interaction between the frontend and local storage.  
+- Focused on **user experience** and **UI responsiveness**, ensuring a seamless interaction on both desktop and mobile devices. 📱💻
